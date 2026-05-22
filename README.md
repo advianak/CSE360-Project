@@ -1,4 +1,4 @@
-**<h1>CSE360 - ASU Book Purchase Application</h1>**
+**<h1>CSE360 - Book Purchase Application</h1>**
 
 <h2>Project Overview</h2> 
 The ASU Book Purchase Application is designed to facilitate seamless transactions between buyers and sellers while allowing admins to manage and monitor the system effectively. Phase 2 of this project focuses on extending the application's functionality with critical features such as user interactions, book management, and system administration. <br/>
